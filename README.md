@@ -1,6 +1,6 @@
 # CSE311_Project
 
-Description:
+### Description:
 Suppose, I own a Bank, and I have stored all the information in account details schema. There are six tables in the account details schema. Those tables are account, borrower, branch, customer, depositor, and loan.
 
 
