@@ -6,8 +6,12 @@ Suppose, I own a Bank, and I have stored all the information in account details 
 
 Account (account number, balance, branch name):
 There is an account identified by account number. Total available balance at any given time represented by balance, and hosted branch name represented by branch name.
+
+
 Borrower (customer name, loan number):
 Each customer can take a loan from the bank against the loan number. A loan number can assign to multiple borrowers. If the same loan number is assign to multiple borrowers, this will represent a joint loan against that loan number.
+
+
 Branch (branch name, branch city, asset):
 A branch having a name is situate in a city having assets of a certain amount. There can be multiple branches in a city.
 
